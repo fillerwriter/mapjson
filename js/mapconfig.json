@@ -1,0 +1,8 @@
+{
+  "leaflet": {
+    "class": "LeafletEngine"
+  },
+  "tilelayer": {
+    "class": "LeafletTileLayer"
+  }
+}
